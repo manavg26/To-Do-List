@@ -1,0 +1,10 @@
+{
+  "name": "todoappserver",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2",
+    "http": "0.0.0"
+  }
+}
