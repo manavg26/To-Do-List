@@ -1,0 +1,33 @@
+body {
+    color: #303030;
+}
+
+#tasksDisplaySide {
+    background-color: #e0e0e0;
+    box-shadow: 3px 0px 4px #c6c6c6;
+}
+
+.taskName {
+    font-size: 18px;
+    width: calc(100% - 65px);
+    overflow: auto;
+}
+
+.taskButtons {
+    width: 57px;
+}
+
+button {
+    color: #303030;
+    background-color: transparent;
+}
+button:focus {
+    outline: none;
+}
+
+#taskEntry {
+    color: #7a7a7a;
+    resize: none;
+    outline: none;
+    overflow: auto;
+}
